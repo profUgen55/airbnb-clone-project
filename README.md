@@ -18,6 +18,7 @@ Django is a high-level Python web framework that simplifies the process of build
 ### PostgreSQL
 PostgreSQL is a powerful, open-source object-relational database management system (ORDBMS) that extends the SQL language with numerous features to safely store and scale complex data workloads
 
+
 ## Database Design
 ### Users
 A user can have multiple properties 
@@ -25,6 +26,15 @@ A user can have multiple properties
 Properties can be owned
 ### Bookings
 A bookiing belong to a property
+
+## Feature Breakdown
+### user management
+User management is a critical aspect of web applications. It involves creating, managing, and maintaining user accounts and their permissions. This article will guide you through the essential components of user management, including user roles, authentication, and authorization
+### property management
+is a web-based program by which property managers, landlords, condominium boards, or homeowners associations (HOAs) can manage every aspect of property operations on the Internet.
+### booking system
+An online booking system is a software solution that allows potential guests to self-book and pay through your website, and other channels, while giving you the best tools to run and scale your operation
+
 
 
 ### ReviewsPayments.
