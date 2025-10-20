@@ -5,10 +5,10 @@ This project will be an Airbnb project comprising of many features
 ###BackEND Developer
 Develops server-side logic and API integration
 
-###Database Administrator
+##Database Administrator
 Develops client side logic and UI components
 
-####Technology Stack
+##Technology Stack
 Python
 Python is a high-level, general-purpose programming language known for its readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python's design philosophy emphasizes code readability with the use of significant indentation
 MYSQL
