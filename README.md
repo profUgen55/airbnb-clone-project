@@ -7,3 +7,9 @@ Develops server-side logic and API integration
 
 ###Database Administrator
 Develops client side logic and UI components
+
+"Technology Stack"
+Python
+MYSQL
+Django
+PostgreSQL
