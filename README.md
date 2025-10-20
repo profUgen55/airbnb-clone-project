@@ -49,6 +49,12 @@ Authorization in web applications ensures that authenticated users can only acce
 Authorization in web applications ensures that authenticated users can only access resources and perform actions they are permitted to. It is a critical layer of security that complements authentication. Below are key approaches and best practices for implementing robust authorization mechanisms.
 
 
+
+
+## CI/CD Pipeline
+A CI/CD pipeline is a series of steps that automate the process of software delivery, from code integration to deployment. CI/CD stands for Continuous Integration and Continuous Delivery/Deployment, which are practices aimed at improving software development and delivery through automation.
+eg GitHub Actions
+
 ### ReviewsPayments.
 
 
